@@ -1,5 +1,5 @@
 let userInput = 0
-let day = 'day'
+let day = 'date'
 document.getElementById('button').addEventListener('click', museum)
 
 function museum () {
